@@ -1,4 +1,4 @@
-<img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=Hi 👋, I'm Gr Tuhin&color=c3c3c3"/>
+<img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=Hi, I'm Gr Tuhin&color=c3c3c3"/>
 <img src="https://media.giphy.com/media/RkHFJCWvv0WnUjPX98/giphy.gif" width="100" height="100"/>
 
 
