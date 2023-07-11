@@ -16,9 +16,9 @@
 
 - 🌱 I’m currently learning **NextJs**
 
-- 💬 Ask me about **Web Development**
+- 💬 Talk to me about React, Node, Python, JavaScript, Freelancing Opportunities etc.
 
-- 📫 How to reach me **tuhin4ever19@gmail.com**
+- 📫 Reach me at **tuhin4ever19@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1O9YVoKB8DALLmDUm-jX-4AUi2yc9e8CU/view?usp=sharing](https://drive.google.com/file/d/1O9YVoKB8DALLmDUm-jX-4AUi2yc9e8CU/view?usp=sharing)
 
