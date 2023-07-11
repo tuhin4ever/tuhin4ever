@@ -34,6 +34,9 @@
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=tuhin4ever&theme=transparent&show_icons=true&include_all_commits=true&count_private=true&hide=issues" alt="tuhin4ever" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tuhin4ever&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true&hide=issues" alt="tuhin4ever" /></p>
 
+<h2>Support Me <img src = "https://media2.giphy.com/media/RJgjFf46V4KVa1l42A/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
+<p><a href="https://www.buymeacoffee.com/tuhin4ever"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tuhin" /></a></p>
+
 ![Waves](https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/36f6082eed9388f5965d96f2fbc917a2cb888c89/wave.svg)
 
 
