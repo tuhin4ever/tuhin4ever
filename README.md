@@ -26,7 +26,7 @@
 <h2>Connect With Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <p align="left">
-<a href="https://linkedin.com/in/gr-tuhin-07988726b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gr-tuhin-07988726b" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tuhin4ever" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gr-tuhin-07988726b" height="30" width="40" /></a>
 <a href="https://fb.com/tuhin4ev3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tuhin4ev3r" height="30" width="40" /></a>
 <a href="https://instagram.com/tuhin_4ever" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tuhin_4ever" height="30" width="40" /></a>
 </p>
