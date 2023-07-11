@@ -39,6 +39,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tuhin4ever&show_icons=true&locale=en&layout=compact" alt="tuhin4ever" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tuhin4ever&show_icons=true&locale=en" alt="tuhin4ever" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tuhin4ever&" alt="tuhin4ever" /></p>
