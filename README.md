@@ -1,10 +1,10 @@
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,&color=c3c3c3"/>
+<img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=Hi 👋, I'm Gr Tuhin&color=c3c3c3"/>
 <img src="https://media.giphy.com/media/RkHFJCWvv0WnUjPX98/giphy.gif" width="100" height="100"/>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Take+a+☕+and+enjoy+(יהוה)&color=c3c3c3)](https://git.io/typing-svg)
 
- <h1 align="center">Hi 👋, I'm Gr Tuhin</h1>
+
 <h3 align="center">A Passionate MERN Stack Developer From Bangladesh</h3>
 <img align="right" width="400"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" />
 
