@@ -1,4 +1,4 @@
- [![MasterHead](https://i.ibb.co/m0yV4GP/IMG-2061-2.jpg)](https://i.ibb.co/m0yV4GP/IMG-2061-2.jpg)
+ [![MasterHead](https://i.ibb.co/m52qN28/IMG-2061-1.jpg)](https://i.ibb.co/m0yV4GP/IMG-2061-2.jpg)
  <h1 align="center">Hi 👋, I'm Gr Tuhin</h1>
 <h3 align="center">A Passionate MERN Stack Developer From Bangladesh</h3>
 <img align="right" width="400"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" />
