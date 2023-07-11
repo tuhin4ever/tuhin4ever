@@ -1,3 +1,4 @@
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,&color=c3c3c3"/>
 <img  src="https://media.giphy.com/media/RkHFJCWvv0WnUjPX98/giphy.gif" width="100" height="100"/>
 
 [ ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Take+a+☕+and+enjoy+(coding)&color=c3c3c3)](https://git.io/typing-svg)
