@@ -1,8 +1,9 @@
-<img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=Hi, I'm Gr Tuhin&color=c3c3c3"/>
-<img src="https://media.giphy.com/media/RkHFJCWvv0WnUjPX98/giphy.gif" width="100" height="100"/>
+<h1 >Hi 👋, I'm Gr Tuhin</h1>
+<img  src="https://media.giphy.com/media/RkHFJCWvv0WnUjPX98/giphy.gif" width="100" height="100"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Take+a+☕+and+enjoy+(יהוה)&color=c3c3c3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Take+a+☕+and+enjoy+(coding)&color=c3c3c3)](https://git.io/typing-svg)
+
 
 
 <h3 align="center">A Passionate MERN Stack Developer From Bangladesh</h3>
