@@ -21,7 +21,7 @@
 
 - 📫 Reach me at **tuhin4ever19@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1O9YVoKB8DALLmDUm-jX-4AUi2yc9e8CU/view?usp=sharing](https://drive.google.com/file/d/1O9YVoKB8DALLmDUm-jX-4AUi2yc9e8CU/view?usp=sharing)
+- 📄 Know about my experiences 
 
 <h2>Connect With Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
