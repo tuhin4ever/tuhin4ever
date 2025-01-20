@@ -3,7 +3,6 @@
 
 [ ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Take+a+☕+and+enjoy+(coding)&color=c3c3c3)](https://git.io/typing-svg)
 
-<p align=""> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> <img src="https://komarev.com/ghpvc/?username=tuhin4ever&label=Profile%20views&color=0e75b6&style=flat" alt="tuhin4ever" /> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> </p>
 
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">, I'm Tuhin</h1> 
 <h3 align="center">A Passionate MERN Stack Developer From Bangladesh</h3>
